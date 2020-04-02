@@ -1,0 +1,6 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\═рЄр\Desktop\IPS\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(20): warning #3947: "_Cilk_for" has been deprecated, and will be removed in a future release.  Please refer to release notes for details and recommended alternatives
+    	cilk_for(int i = 0; i < ARRAY_SIZE; i++)
+    	^
+  
+LINK : : error LNK1104: эх єфрхЄё  юЄъЁ√Є№ Їрщы "tbbmalloc_debug.lib"

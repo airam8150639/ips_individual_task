@@ -1,0 +1,6 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\═рЄр\Desktop\IPS\шэфштшфєры№эюх чрфрэшх\ьр°р\task3\ConsoleApplication2\ConsoleApplication2.cpp(34): warning #3947: "_Cilk_for" has been deprecated, and will be removed in a future release.  Please refer to release notes for details and recommended alternatives
+    		cilk_for (int i = 0; i < q[j]; i++)
+    		^
+  
+  ConsoleApplication2.vcxproj -> C:\Users\Ната\Desktop\IPS\индивидуальное задание\маша\task3\x64\Release\ConsoleApplication2.exe
